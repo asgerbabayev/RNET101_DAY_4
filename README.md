@@ -5,7 +5,8 @@
 </ol>
 </br>
 <ul>
-<li>[a link](https://learn.microsoft.com/en-us/dotnet/standard/collections/)</li>
-<li>[a link](https://www.w3schools.com/cs/cs_exceptions.php)</li>
-<li>[a link](https://www.w3schools.com/cs/cs_methods.php)</li>
+<h3>Məqalələr</h3>
+<li>https://learn.microsoft.com/en-us/dotnet/standard/collections/</li>
+<li>https://www.w3schools.com/cs/cs_exceptions.php</li>
+<li>https://www.w3schools.com/cs/cs_methods.php</li>
 </ul>
