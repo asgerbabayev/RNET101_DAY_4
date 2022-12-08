@@ -1,4 +1,4 @@
-# Tasks < /br>
+# Tasks
 <ol>
 <li>İçində birdən çox elementi olan arrayı for, foreach, while, do-while istifadə etmədən ekrana yazdırın.</li>
 <li>Console-dan bir ədəd daxil olunur və array içində həmin ədədin olub olmamağını yoxlayırsız. Ekrana true false çıxarırsız. (Dövr istifadə etmədən!)</li>
